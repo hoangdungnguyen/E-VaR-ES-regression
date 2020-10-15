@@ -1,5 +1,5 @@
 # Learning conditional expectation, value-at-risk, and expected shortfall
-Author: Hoang-Dung Nguyen under supervision of Prof. Stéphane Crépey with crucial support from Marc Chataigner and Bouazza Saadeddine.
+Authors: Hoang-Dung Nguyen under supervision of Prof. Stéphane Crépey with crucial support from Marc Chataigner and Bouazza Saadeddine.
 
 ## Description
 with the motive of analysing XVA metrics (i.e. counterparty risk for banks), we state the two main objectives of this work: 
