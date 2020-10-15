@@ -9,5 +9,6 @@ with the motive of analysing XVA metrics (i.e. counterparty risk for banks), we 
 
 ## Git repository structure
 - File `report.pdf` is our completed report
+	- `ES_from_VaR_NN.ipynb` is a new well-working methodology (Thank for Bouazza's idea) which is the fastest and the most accurate way to learn VaR and ES. The efficiency of this methodology can be explained by our upper bound of ES estimates developed in our report, but the numerical result is not yet added in the report.
 - Folder `Report code` contains documented jupyter notebooks serving two simulation problems in the report: Pricing problem (i.e. Conditional expectation) and VaR ES case study (i.e. Conditional VaR and ES)
 - Folder `Draft` contains some codes, algorithms which did not work yet, but may be useful for future work (e.g. Quantile regression via interior point, Jacobian, Hessian function implemented on PyTorch, etc.). They are not yet documented.
